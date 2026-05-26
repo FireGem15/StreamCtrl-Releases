@@ -1,7 +1,7 @@
 # Stream Ctrl
 
 <p align="center">
-  <img src="p" width="120" alt="Stream Ctrl Logo"/>
+  <img src="Stream_Ctrl_Icon" width="120" alt="Stream Ctrl Logo"/>
 </p>
 
 <p align="center">
