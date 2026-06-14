@@ -2,15 +2,15 @@
 
 ## v2.1.0
 ### New
-- Drag handle icon in edit mode — only the handle drags so you can freely select and edit text
-- Hide/show sidebar with a single click
 - New installer makes installation quick and easy — no manual setup required
-- Help dialog — tap ? in edit mode for a full explanation of all controls
-- All buttons and controls now highlight on hover
+- Hide/show sidebar with a single click
 - Undo button in edit mode — step back through your changes
 - Dragging now moves the actual category card instead of a ghost copy
 - When you pick up a card its slot empties and the row adjusts naturally
 - Empty rows unlock as you fill them — drag a card to an empty row to unlock the next one, with the number of available rows always matching your category count
+- Drag handle icon in edit mode — only the handle drags so you can freely select and edit text
+- Help dialog — tap ? in edit mode for a full explanation of all controls
+- All buttons and controls now highlight on hover
 
 ### Bug Fixes
 - Fixed a bug where dropping a card outside a valid slot created an unusable duplicate — previously required reinstall to fix
@@ -25,10 +25,11 @@
 - Fixed expanding categories on header click in home mode
 
 ### Improvements
-- Removed app name and emoji from sidebar for a cleaner look
-- Larger colour picker dialog in edit mode
 - Font sizes increased for better readability
 - Toast notifications now appear in the center of the screen in both home and edit mode
+- Larger colour picker dialog in edit mode
+- Removed app emoji from sidebar for a cleaner look
+- Tooltips removed — Help dialog now covers all controls and interactions
 
 ## v2.0.0 — Major Update
 ### New
