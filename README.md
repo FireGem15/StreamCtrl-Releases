@@ -14,8 +14,8 @@
 
 | Platform | Download |
 |----------|----------|
-| Windows | [Desktop Installer (v2.1.0)](../../releases/latest) |
-| Android | [Mobile APK (v1.4.1)](../../releases/latest) |
+| Windows | [Desktop Installer (v2.1.0)](https://github.com/FireGem15/StreamCtrl-Releases/releases/tag/v2.1.0) |
+| Android | [Mobile APK (v1.4.1)](https://github.com/FireGem15/StreamCtrl-Releases/releases/tag/v1.4.1) |
 
 > Some antivirus software may flag the installer as a false positive due to Flutter's engine binaries. The app is safe to use. You can verify this on [VirusTotal](https://www.virustotal.com).
 
