@@ -6,9 +6,9 @@
 - Connection status now hidden in edit mode for a cleaner look
 
 ### Bug Fixes
+- Fixed app crashing on reopen after landscape mode — previously required reinstall to fix
 - Fixed auto reconnect getting stuck in an infinite disconnected loop — now reconnects automatically without needing to manually press save in connection settings
 - Fixed category expanding not working correctly
-- Fixed app crashing on reopen after landscape mode — previously required reinstall to fix
 
 ## v1.4.0
 ### New
@@ -36,7 +36,7 @@
 
 ## v1.2.0
 ### Improvements
-- Categories now remember collapse state in Home and Edit modes separately
+- Categories now remember collapse state in Home and Edit modes separately 
 - Category and button names now automatically capitalize the first letter
 - Toast notifications now appear at the top of the screen for better visibility
 - Added automatic connection checks every 10 seconds
