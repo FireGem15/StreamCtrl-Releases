@@ -1,5 +1,18 @@
 # What's New — Stream Ctrl Desktop
 
+## v2.2.0
+### New
+- Help dialog is now available in home mode — tap ? anytime, not just in edit mode
+- Empty category slots pulse when you hover over them while dragging — easier to see where to drop
+- Welcome popup on first launch to help you get started
+
+### Bug Fixes
+- Fixed mouse cursor not switching to grab icon when hovering over draggable areas
+
+### Improvements
+- Help text in edit mode has been expanded and rewritten for clarity
+- Uninstaller now offers the option to remove all saved app data
+
 ## v2.1.0
 ### New
 - New installer makes installation quick and easy — no manual setup required
